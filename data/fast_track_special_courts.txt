@@ -1,0 +1,124 @@
+Fast Track Court
+Dashboard
+No. of Court Functional
+No. of cases disposed during the Month
+No. of cases pending
+Logarithmic Scale
+S.No.
+State
+Number of Court Functional
+1
+Andaman and Nicobar
+0
+2
+Andhra Pradesh
+21
+3
+Arunachal Pradesh
+0
+4
+Assam
+16
+5
+Bihar
+0
+6
+Chandigarh
+0
+7
+Chhattisgarh
+27
+8
+Dadra and Nagar Haveli
+0
+9
+Daman and Diu
+0
+10
+Delhi
+26
+11
+Goa
+4
+12
+Gujarat
+54
+13
+Haryana
+6
+14
+Himachal Pradesh
+3
+15
+Jammu and Kashmir
+8
+16
+Jharkhand
+40
+17
+Karnataka
+0
+18
+Kerala
+0
+19
+Ladakh
+0
+20
+Lakshadweep
+0
+21
+Madhya Pradesh
+0
+22
+Maharashtra
+117
+23
+Manipur
+6
+24
+Meghalaya
+0
+25
+Mizoram
+2
+26
+Nagaland
+0
+27
+Odisha
+0
+28
+Puducherry
+1
+29
+Punjab
+7
+30
+Rajasthan
+0
+31
+Sikkim
+2
+32
+Tamil Nadu
+73
+33
+Telangana
+0
+34
+Tripura
+2
+35
+Uttar Pradesh
+373
+36
+Uttarakhand
+7
+37
+West Bengal
+88
+Copyright © 2021.
+All rights reserved.
+Version
+3.1.0

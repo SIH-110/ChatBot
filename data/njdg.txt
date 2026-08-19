@@ -1,0 +1,458 @@
+Alerts
+Pending Dashboard
+Disposed Dashboard
+Delay Reason
+Information Management
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+Select State
+Andaman and Nicobar
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jammu and Kashmir
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+The Dadra And Nagar Haveli And Daman And Diu
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Select District
+Go
+Appeal (C)
+Civil Cases
+1,12,60,594
+Criminal Cases
+3,95,85,389
+Total Cases
+5,08,45,983
+Pre-Litigation	/ Pre-Trial
+12,69,085
+Alerts
+Other Alerts
+Particulars
+Civil
+Criminal
+Total
+Cases Instituted in Last Month
+437628
+2465618
+2903246
+Cases Disposed in Last Month
+380179
+1995303
+2375482
+Filed Cases By Senior Citizen
+2519992
+785867
+3305859
+Filed Cases By Woman
+1876001
+2073793
+3949794
+Delay Reason
+Court Complex
+Court Establishment
+No of Courts / Judges
+/
+Data Not transferred
+Orders Not Uploaded
+Age wise pending cases
+Civil
+Criminal
+Total
+Less than one year
+43,47,088
+1,46,83,056
+1,90,30,144 (37%)
+1 to 3 Years
+28,65,234
+88,72,756
+1,17,37,990 (23%)
+3 to 5 Years
+15,60,878
+52,93,292
+68,54,170 (13%)
+5 to 10 Years
+16,46,018
+67,81,098
+84,27,116 (17%)
+Above 10 Years
+8,41,774
+39,58,105
+47,99,879 (9%)
+Instituted in last month
+6% of Total Pending Cases
+4,37,628
+24,65,618
+29,03,246
+Civil
+Criminal
+Total
+Disposal in last month
+3,80,179
+19,95,303
+23,75,482
+Civil
+Criminal
+Total
+Contested
+19% of Disposal in last month
+84,619
+3,60,944
+4,45,563
+Civil
+Criminal
+Total
+Uncontested
+81% of Disposal in last month
+2,95,560
+16,34,359
+19,29,919
+Civil
+Criminal
+Total
+Instituted in last month
+6%
+4,37,628
+24,65,618
+29,03,246
+Civil
+Criminal
+Total
+Cases Listed Today
+3% of Total Pending Cases
+4,45,087
+8,98,966
+13,44,053
+Civil
+Criminal
+Total
+Undated
+5% of Total Pending Cases
+3,23,336
+20,55,326
+23,78,662
+Civil
+Criminal
+Total
+Excessive Dated Cases
+10% of Total Pending Cases
+4,30,791
+46,89,958
+51,20,749
+Civil
+Criminal
+Total
+Cases Filed By Woman
+8% of Total Pending Cases
+18,76,001
+20,73,793
+39,49,794
+Civil
+Criminal
+Total
+Excessive Dated Cases
+10%
+4,30,791
+46,89,958
+51,20,749
+Civil
+Criminal
+Total
+Undated
+0%
+Civil
+Criminal
+Total
+Cases Filed By Woman
+8%
+18,76,001
+20,73,793
+39,49,794
+Civil
+Criminal
+Total
+Cases Filed By Senior Citizen
+7% of Total Pending Cases
+25,19,992
+7,85,867
+33,05,859
+Civil
+Criminal
+Total
+Civil
+case type
+Criminal
+case type
+Both
+civil and criminal case types
+Delay AgeWise
+0 to 1 Years
+Case Type
+Civil
+case type
+Criminal
+case type
+Both
+civil and criminal case types
+ick to view case category details/span>
+All
+Original
+Appeal
+Application
+Execution
+Age
+0 to 1 Years
+Stage
+Delay Reason
+Institution Vs Disposal
+Year
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+Data Monitoring - Summary Report
+Court Judge Report
+National Master - Summary Report
+Under Trial Report
+Establishment wise National Code Not entered
+*
+State
+Master list where National Code not entered
+*
+State
+*
+Report Type
+Select
+Case Type
+Purpose Type
+Adjourn Type
+Police Station
+Disposal Type
+Act Type
+*
+District
+Under Trial Report
+*
+State
+*
+District
+Court
+Court Complex
+Court Establishment
+Data Not transferred
+Orders Not Uploaded
+Cases
+Undated Cases
+Excessive Dated
+Listed Today
+JustIS
+Total Judicial Officers
+Total Courts
+Presiding officers
+Justis App Used
+NSTEP
+Bailiffs Onboarded
+Process Generated
+Process Allocated
+Process Delivered
+Virtual Court
+Received
+Proceedings Done
+Contested
+Paid Challans
+Amount
+ePay
+Court Fee
+Establishments
+Cases
+Amount
+Fine
+Establishments
+Cases
+Amount
+Penalty
+Establishments
+Cases
+Amount
+Judicial Deposit
+Establishments
+Cases
+Amount
+ICJS
+Establishments
+FIR
+Chargesheets
+Consumed
+FIR
+Chargesheets
+Verified
+FIR
+Chargesheets
+Rejected
+FIR
+Chargesheets
+eFiling
+Advocates
+Total Registered
+Verified
+New Cases
+Final Submited
+Consumed in CIS
+Applications
+Final Submited
+Consumed in CIS
+Documents
+In new cases
+In existing cases
+SMS/Email
+SMS
+SMS Sent
+0%
+Email
+Email Sent
+0%
+Back
+Cases
+Back
+Cases
+Modal Title
+...
+Close
+Establishment Wise Data
+Close
+District Wise Count
+Close
+Establishment Wise Count
+Close
+National Master-Summary Report
+Close
+Under Trail Report-District wise
+...
+Close
+Under Trail Report-Establishmentwise
+...
+Close
+Modal Title
+...
+Close
+Modal Title
+Close
+Modal Title
+...
+Close
+Modal Title
+...
+Close
+Modal Title
+...
+Close
+Captcha
+Enter Captcha
+Close
+Modal Title
+Search By
+Case Number/Year
+Cases
+Close
+Modal Title
+Close
+Modal Title
+Cases
+Close
+Modal Title
+Search By
+Cases
+Cases
+Close
+Modal Title
+Close
+Modal Title
+Close
+Captcha
+Close
+Captcha
+Close
+Modal Title
+Sr No.
+State
+District
+Establishment
+Case Number(CNR)
+Cause Title
+Pending Since
+From Date
+Police Station
+Case Number
+Accused
+Registration Date
+Next Stage(Next Date)
+Close
+State
+...
+Close
+District
+Close
+Est
+Close
+Modal Title
+PDF Viewer
+Case List
+Search By
+CNR
+Case Type
+Case Number/Year
+Petitioner Name
+Respondent Name
+Date of Registration
+Sr. No.
+State
+District
+Establishment
+CNR
+Case Number
+Party Name
+Date of Registration
+Purpose Name
+Next Date
+Disposal Nature
+Date of Decision
+Close
