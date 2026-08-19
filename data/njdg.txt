@@ -53,13 +53,13 @@ Select District
 Go
 Appeal (C)
 Civil Cases
-1,12,60,594
+1,12,62,772
 Criminal Cases
-3,95,85,389
+3,96,06,241
 Total Cases
-5,08,45,983
+5,08,69,013
 Pre-Litigation	/ Pre-Trial
-12,69,085
+12,69,506
 Alerts
 Other Alerts
 Particulars
@@ -67,21 +67,21 @@ Civil
 Criminal
 Total
 Cases Instituted in Last Month
-437628
-2465618
-2903246
+437953
+2466329
+2904282
 Cases Disposed in Last Month
-380179
-1995303
-2375482
+380202
+1995557
+2375759
 Filed Cases By Senior Citizen
-2519992
-785867
-3305859
+2520728
+786113
+3306841
 Filed Cases By Woman
-1876001
-2073793
-3949794
+1876423
+2074221
+3950644
 Delay Reason
 Court Complex
 Court Establishment
@@ -94,101 +94,101 @@ Civil
 Criminal
 Total
 Less than one year
-43,47,088
-1,46,83,056
-1,90,30,144 (37%)
+43,53,927
+1,47,11,039
+1,90,64,966 (37%)
 1 to 3 Years
-28,65,234
-88,72,756
-1,17,37,990 (23%)
+28,63,229
+88,70,215
+1,17,33,444 (23%)
 3 to 5 Years
-15,60,878
-52,93,292
-68,54,170 (13%)
+15,59,762
+52,91,785
+68,51,547 (13%)
 5 to 10 Years
-16,46,018
-67,81,098
-84,27,116 (17%)
+16,44,770
+67,79,030
+84,23,800 (17%)
 Above 10 Years
-8,41,774
-39,58,105
-47,99,879 (9%)
+8,41,482
+39,57,090
+47,98,572 (9%)
 Instituted in last month
 6% of Total Pending Cases
-4,37,628
-24,65,618
-29,03,246
+4,37,953
+24,66,329
+29,04,282
 Civil
 Criminal
 Total
 Disposal in last month
-3,80,179
-19,95,303
-23,75,482
+3,80,202
+19,95,557
+23,75,759
 Civil
 Criminal
 Total
 Contested
 19% of Disposal in last month
-84,619
-3,60,944
-4,45,563
+84,625
+3,60,964
+4,45,589
 Civil
 Criminal
 Total
 Uncontested
 81% of Disposal in last month
-2,95,560
-16,34,359
-19,29,919
+2,95,577
+16,34,593
+19,30,170
 Civil
 Criminal
 Total
 Instituted in last month
 6%
-4,37,628
-24,65,618
-29,03,246
+4,37,953
+24,66,329
+29,04,282
 Civil
 Criminal
 Total
 Cases Listed Today
 3% of Total Pending Cases
-4,45,087
-8,98,966
-13,44,053
+4,45,090
+8,98,972
+13,44,062
 Civil
 Criminal
 Total
 Undated
 5% of Total Pending Cases
-3,23,336
-20,55,326
-23,78,662
+3,23,139
+20,55,300
+23,78,439
 Civil
 Criminal
 Total
 Excessive Dated Cases
 10% of Total Pending Cases
-4,30,791
-46,89,958
-51,20,749
+4,39,905
+47,52,877
+51,92,782
 Civil
 Criminal
 Total
 Cases Filed By Woman
 8% of Total Pending Cases
-18,76,001
-20,73,793
-39,49,794
+18,76,423
+20,74,221
+39,50,644
 Civil
 Criminal
 Total
 Excessive Dated Cases
 10%
-4,30,791
-46,89,958
-51,20,749
+4,39,905
+47,52,877
+51,92,782
 Civil
 Criminal
 Total
@@ -199,17 +199,17 @@ Criminal
 Total
 Cases Filed By Woman
 8%
-18,76,001
-20,73,793
-39,49,794
+18,76,423
+20,74,221
+39,50,644
 Civil
 Criminal
 Total
 Cases Filed By Senior Citizen
 7% of Total Pending Cases
-25,19,992
-7,85,867
-33,05,859
+25,20,728
+7,86,113
+33,06,841
 Civil
 Criminal
 Total
