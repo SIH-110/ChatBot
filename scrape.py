@@ -20,8 +20,8 @@ def scrape_page(url, output_file):
 
 if __name__ == "__main__":
     urls = [
-        ("https://www.doj.gov.in/department", "data/about.txt"),
-        ("https://www.doj.gov.in/department/our-division?page=1", "data/divisions.txt"),
+        ("https://doj.gov.in/about-department/", "data/about.txt"),
+        ("https://doj.gov.in/divisions/", "data/divisions.txt"),
         ("https://doj.gov.in/acts-rules/", "data/acts_rules.txt"),
         ("https://doj.gov.in/notifications/", "data/notifications.txt"),
         ("https://doj.gov.in/circulars/", "data/circulars.txt"),
@@ -34,10 +34,14 @@ if __name__ == "__main__":
         ("https://ecourts.gov.in/ecourts_home/", "data/court_orders.txt"),
         ("https://ecourts.gov.in/services/", "data/services.txt"),
         ("https://www.doj.gov.in/offerings/vacancies?page=1", "data/vacancies.txt"),
-        ("https://echallan.parivahan.gov.in/ ", "data/echallan.txt"),
-        (" https://www.sci.gov.in/live-streaming/", "data/live_streaming.txt"),
-        ("https://dashboard.doj.gov.in/fast-track-court/ftc_functional", "data/fast_track_special_courts.txt"),
-        ("https://ecourts.gov.in/ecourts2.0/", "data/ecourts2.txt")
+        ("https://echallan.parivahan.gov.in/", "data/echallan.txt"),
+        ("https://www.sci.gov.in/live-streaming/", "data/live_streaming.txt"),
+        ("https://doj.gov.in/fast-track-special-courts/", "data/fast_track_special_courts.txt"),
+        ("https://ecourts.gov.in/ecourts2.0/", "data/ecourts2.txt"),
+        ("https://doj.gov.in/ecourts-project/", "data/ecourts_project.txt"),
+        ("https://doj.gov.in/tele-law/", "data/tele_law.txt"),
+        ("https://doj.gov.in/access-to-justice/", "data/access_to_justice.txt"),
+        ("https://ecourts.gov.in/ecourts_home/", "data/efiling_epay.txt"),
     ]
     os.makedirs("data", exist_ok=True)
     for url, out in urls:

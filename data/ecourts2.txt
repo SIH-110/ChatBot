@@ -158,7 +158,7 @@ PDF Viewer
 PDF viewer
 Version :2.0
 Disclaimer
-S1
+S2
 Disclaimer
 Visitors to the site are requested to cross check the correctness of the information on this site with the authorities concerned or consult the relevant record. The information made available here is not meant for legal evidence. Neither the Courts concerned nor the National Informatics Centre (NIC) nor the e-Committee is responsible for any data inaccuracy or delay in the updation of the data on this website. We do not accept any responsibility or liability for any damage or loss arising from the direct/indirect use of the information provided on the site. However, we shall be obliged if errors/omissions are brought to our notice for carrying out the corrections.
 Close

@@ -1,124 +1,145 @@
-Fast Track Court
-Dashboard
-No. of Court Functional
-No. of cases disposed during the Month
-No. of cases pending
-Logarithmic Scale
-S.No.
-State
-Number of Court Functional
-1
-Andaman and Nicobar
-0
-2
-Andhra Pradesh
-21
-3
-Arunachal Pradesh
-0
-4
-Assam
-16
-5
-Bihar
-0
-6
-Chandigarh
-0
-7
-Chhattisgarh
-27
-8
-Dadra and Nagar Haveli
-0
-9
-Daman and Diu
-0
-10
-Delhi
-26
-11
-Goa
-4
-12
-Gujarat
-54
-13
-Haryana
-6
-14
-Himachal Pradesh
-3
-15
-Jammu and Kashmir
-8
-16
-Jharkhand
-40
-17
-Karnataka
-0
-18
-Kerala
-0
-19
-Ladakh
-0
-20
-Lakshadweep
-0
-21
-Madhya Pradesh
-0
-22
-Maharashtra
-117
-23
-Manipur
-6
-24
-Meghalaya
-0
-25
-Mizoram
-2
-26
-Nagaland
-0
-27
-Odisha
-0
-28
-Puducherry
-1
-29
-Punjab
-7
-30
-Rajasthan
-0
-31
-Sikkim
-2
-32
-Tamil Nadu
-73
-33
-Telangana
-0
-34
-Tripura
-2
-35
-Uttar Pradesh
-373
-36
-Uttarakhand
-7
-37
-West Bengal
-88
-Copyright © 2021.
-All rights reserved.
-Version
-3.1.0
+FAST TRACK SPECIAL COURTS (FTSCs)
+
+The Fast Track Special Courts (FTSCs) scheme is a Centrally Sponsored Scheme implemented by the Government of India through the Department of Justice, Ministry of Law and Justice.
+
+OBJECTIVE
+
+The Fast Track Special Courts scheme is intended to provide speedy and time-bound disposal of pending cases relating to rape and offences under the Protection of Children from Sexual Offences (POCSO) Act, 2012.
+
+The scheme was launched in October 2019.
+
+The courts are dedicated to dealing with cases involving rape and offences under the POCSO Act.
+
+EXCLUSIVE POCSO COURTS
+
+The scheme also provides for exclusive POCSO (e-POCSO) Courts.
+
+These courts are dedicated to the trial and disposal of cases relating to offences under the Protection of Children from Sexual Offences (POCSO) Act, 2012.
+
+SCHEME EXTENSION
+
+The Fast Track Special Courts scheme has been extended twice.
+
+The latest extension was approved up to 31 March 2026 for the establishment of 790 Fast Track Special Courts.
+
+FUNCTIONAL COURTS
+
+According to information provided by the High Courts, as of 31 January 2026:
+
+- 774 Fast Track Special Courts were functional.
+- 398 of these were exclusive POCSO (e-POCSO) Courts.
+- The functional courts were spread across 29 States and Union Territories.
+
+DISPOSAL OF CASES
+
+As of 31 January 2026, Fast Track Special Courts had collectively disposed of 3,71,849 cases since the inception of the scheme.
+
+FUNDING
+
+The Fast Track Special Courts have been set up and operationalised under the Nirbhaya Fund.
+
+The Department of Justice has released approximately Rs. 1,210.91 crore to States and Union Territories since the inception of the scheme to support the functioning of these courts.
+
+The funding pattern is based on the Centrally Sponsored Scheme model.
+
+The Central and State funding ratio is generally:
+
+- 60:40 for applicable States
+- 90:10 for North Eastern and certain special category States
+
+The funding supports the salary of one Judicial Officer, seven support staff and a flexi grant for day-to-day expenses.
+
+RESPONSIBILITY FOR SETTING UP COURTS
+
+The setting up and functioning of Fast Track Special Courts falls within the domain of the respective State Governments and Union Territories in consultation with their High Courts.
+
+The establishment of courts depends on the requirements and availability of resources of the concerned State or Union Territory.
+
+The information regarding functional courts is provided by the respective High Courts.
+
+CURRENT DASHBOARD INFORMATION
+
+The Department of Justice Fast Track Special Courts dashboard provides live information about the functioning of FTSCs.
+
+The dashboard currently reports:
+
+- 779 Functional Fast Track Special Courts including exclusive POCSO Courts.
+- 399 Functional exclusive POCSO Courts.
+- 3,96,940 cumulative disposals since the inception of the scheme.
+- 2,56,097 pending cases in Fast Track Special Courts including exclusive POCSO Courts.
+
+The dashboard figures are dynamic and may change as States and High Courts update their information.
+
+STATE/UT FUNCTIONAL COURTS
+
+The Department of Justice dashboard provides State/UT-wise information about functional Fast Track Special Courts.
+
+Examples of functional FTSCs reported on the dashboard include:
+
+- Andhra Pradesh
+- Assam
+- Bihar
+- Chandigarh
+- Chhattisgarh
+- Delhi
+- Goa
+- Gujarat
+- Haryana
+- Himachal Pradesh
+- Jammu and Kashmir
+- Karnataka
+- Kerala
+- Madhya Pradesh
+- Maharashtra
+- Manipur
+- Meghalaya
+- Mizoram
+- Nagaland
+- Odisha
+- Puducherry
+- Punjab
+- Rajasthan
+- Tamil Nadu
+- Telangana
+- Tripura
+- Uttar Pradesh
+- Uttarakhand
+- West Bengal
+
+IMPORTANCE
+
+Fast Track Special Courts are intended to reduce delays in the trial of serious offences involving rape and children.
+
+The scheme supports dedicated judicial capacity for these cases and aims to provide faster justice to victims.
+
+KEY FACTS
+
+Scheme: Fast Track Special Courts (FTSCs)
+
+Implemented by: Department of Justice, Ministry of Law and Justice, Government of India
+
+Type: Centrally Sponsored Scheme
+
+Launched: October 2019
+
+Main cases: Rape and offences under the POCSO Act, 2012
+
+Latest approved scheme period: Up to 31 March 2026
+
+Approved number of courts: 790
+
+Functional courts as reported on 31 January 2026: 774
+
+Exclusive POCSO courts as reported on 31 January 2026: 398
+
+States/UTs with functional FTSCs as reported on 31 January 2026: 29
+
+Cases disposed since inception as reported on 31 January 2026: 3,71,849
+
+Funding source: Nirbhaya Fund
+
+NOTE ON LIVE DATA
+
+The Department of Justice maintains a live dashboard for Fast Track Special Courts. Dashboard figures can change when updated information is received from High Courts.
+
+Therefore, when answering questions about the current number of functional FTSCs, the latest Department of Justice dashboard figure should be preferred over older dated figures.

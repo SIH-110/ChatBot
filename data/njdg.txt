@@ -53,13 +53,13 @@ Select District
 Go
 Appeal (C)
 Civil Cases
-1,12,62,772
+1,12,61,209
 Criminal Cases
-3,96,06,241
+3,96,06,050
 Total Cases
-5,08,69,013
+5,08,67,259
 Pre-Litigation	/ Pre-Trial
-12,69,506
+12,69,503
 Alerts
 Other Alerts
 Particulars
@@ -67,21 +67,21 @@ Civil
 Criminal
 Total
 Cases Instituted in Last Month
-437953
-2466329
-2904282
+437912
+2466250
+2904162
 Cases Disposed in Last Month
 380202
 1995557
 2375759
 Filed Cases By Senior Citizen
-2520728
-786113
-3306841
+2520498
+786104
+3306602
 Filed Cases By Woman
-1876423
-2074221
-3950644
+1876160
+2074217
+3950377
 Delay Reason
 Court Complex
 Court Establishment
@@ -94,30 +94,30 @@ Civil
 Criminal
 Total
 Less than one year
-43,53,927
-1,47,11,039
-1,90,64,966 (37%)
+43,52,738
+1,47,10,881
+1,90,63,619 (37%)
 1 to 3 Years
-28,63,229
-88,70,215
-1,17,33,444 (23%)
+28,63,012
+88,70,206
+1,17,33,218 (23%)
 3 to 5 Years
-15,59,762
-52,91,785
-68,51,547 (13%)
+15,59,715
+52,91,781
+68,51,496 (13%)
 5 to 10 Years
-16,44,770
-67,79,030
-84,23,800 (17%)
+16,44,679
+67,79,022
+84,23,701 (17%)
 Above 10 Years
-8,41,482
-39,57,090
-47,98,572 (9%)
+8,41,463
+39,57,078
+47,98,541 (9%)
 Instituted in last month
 6% of Total Pending Cases
-4,37,953
-24,66,329
-29,04,282
+4,37,912
+24,66,250
+29,04,162
 Civil
 Criminal
 Total
@@ -146,17 +146,17 @@ Criminal
 Total
 Instituted in last month
 6%
-4,37,953
-24,66,329
-29,04,282
+4,37,912
+24,66,250
+29,04,162
 Civil
 Criminal
 Total
 Cases Listed Today
 3% of Total Pending Cases
-4,45,090
-8,98,972
-13,44,062
+4,45,098
+8,98,990
+13,44,088
 Civil
 Criminal
 Total
@@ -178,9 +178,9 @@ Criminal
 Total
 Cases Filed By Woman
 8% of Total Pending Cases
-18,76,423
-20,74,221
-39,50,644
+18,76,160
+20,74,217
+39,50,377
 Civil
 Criminal
 Total
@@ -199,17 +199,17 @@ Criminal
 Total
 Cases Filed By Woman
 8%
-18,76,423
-20,74,221
-39,50,644
+18,76,160
+20,74,217
+39,50,377
 Civil
 Criminal
 Total
 Cases Filed By Senior Citizen
 7% of Total Pending Cases
-25,20,728
-7,86,113
-33,06,841
+25,20,498
+7,86,104
+33,06,602
 Civil
 Criminal
 Total

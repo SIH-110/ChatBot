@@ -30,7 +30,6 @@ Marathi
 MZ, JK, MH, MN, NL, CG, PY, AN, GA, ML, AS, BR, CH, KA, LA, JH, SK, HP, PB, DD, AR, UK, HR, TN, WB, RJ, GJ State Officers, kindly login on
 NextGen eChallan
 portal
-Login session timeout.
 Submit
 Get Challan Details
 Forget Password
