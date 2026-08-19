@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/knowledge_base/raw/*
+!data/knowledge_base/raw/.gitkeep
+data/knowledge_base/index/*
+!data/knowledge_base/index/.gitkeep
+*.log
+.DS_Store
